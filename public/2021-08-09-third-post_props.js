@@ -30,9 +30,11 @@ export default {
                 React.createElement("a", { href: "#troades-anima-et-quoque-socios-ut-et" }, "Troades anima et quoque socios ut et")),
             React.createElement("li", null,
                 React.createElement("a", { href: "#nec-erat-mitisque-poteras-ripae-fidae-certum" }, "Nec erat mitisque poteras ripae fidae certum")))),
-    'author': undefined,
-    'contributors': [],
-    'date': "2021-08-09T16:58:48.249Z",
+    'author': "AndrewHeaney",
+    'contributors': [
+        "AndrewHeaney"
+    ],
+    'date': "2021-08-06T16:26:06.000Z",
     'updated': null,
     'excerpt': "Third blog post, test Orba per crescit dedi merito ille locus Lorem markdownum, Iunonigenaeque madida ac Talibus telaque, undas non hospite rami vitamque adspice, hi imas voce. Cumque vivit ignorat inpulit adve...",
     'cover': undefined,
@@ -43,27 +45,36 @@ export default {
                 "pagePath": "2021-08-07-second-post.md",
                 "title": "Coding",
                 "link": "2021-08-07-second-post.html",
-                "date": "2021-08-09T16:58:48.249Z",
+                "date": "2021-08-06T16:26:06.000Z",
                 "updated": null,
-                "contributors": [],
+                "author": "AndrewHeaney",
+                "contributors": [
+                    "AndrewHeaney"
+                ],
                 "excerpt": "Second blog post Venit est terras pallor semine fortisque sanguine Lorem markdownum monedula iniqui, differt ensis, sustinet undas ignes. Panes tabuerant nato mei quos tuisque calidi iram, quae diruta, grandior..."
             },
             {
                 "pagePath": "2021-08-06-first-post.md",
                 "title": "First Blog post",
                 "link": "2021-08-06-first-post.html",
-                "date": "2021-08-09T16:58:48.249Z",
+                "date": "2021-08-06T16:26:06.000Z",
                 "updated": null,
-                "contributors": [],
+                "author": "AndrewHeaney",
+                "contributors": [
+                    "AndrewHeaney"
+                ],
                 "excerpt": "First post on deno blog Ventis esse quem Lorem markdownum et specus verti palude illis et vivit prohibebat idque induruit relicto, malignas. Non suum est, cum res ita patriam citra tenemur Acheronta nec sonant ..."
             },
             {
                 "pagePath": "2021-08-09-third-post.md",
                 "title": "Third Post",
                 "link": "2021-08-09-third-post.html",
-                "date": "2021-08-09T16:58:48.249Z",
+                "date": "2021-08-06T16:26:06.000Z",
                 "updated": null,
-                "contributors": [],
+                "author": "AndrewHeaney",
+                "contributors": [
+                    "AndrewHeaney"
+                ],
                 "excerpt": "Third blog post, test Orba per crescit dedi merito ille locus Lorem markdownum, Iunonigenaeque madida ac Talibus telaque, undas non hospite rami vitamque adspice, hi imas voce. Cumque vivit ignorat inpulit adve..."
             }
         ],
