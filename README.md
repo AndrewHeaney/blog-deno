@@ -8,6 +8,8 @@ This project uses pagic to convert `.md` files into web pages and Oak to serve t
 
 Pagic generates the pages into the `/public` directory.
 
+[Live URL](https://blog-deno.deno.dev/)
+
 ## Running Locally
 There are two ways to run locally:
 
