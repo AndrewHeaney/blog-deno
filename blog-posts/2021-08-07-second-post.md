@@ -1,4 +1,9 @@
-# Coding 
+---
+date: 2021-08-07
+---
+
+# Coding
+
 Second blog post
 
 ## Venit est terras pallor semine fortisque sanguine
@@ -12,7 +17,7 @@ tabuerant nato mei quos tuisque calidi iram, quae diruta, grandior!
 
 Delubra cortice tanto inaequales somno conspicuus nata: usus dum tempora annis,
 coercuerat atque turbatque. Suo et vibrantia et timor iam **quae** longus pelagi
-matrem, dictis accingitur carinas! Corpora tunc legit *veram structa cruentis*
+matrem, dictis accingitur carinas! Corpora tunc legit _veram structa cruentis_
 scire imagine apro tepidos, procorum mundi irata ad reserata erubuere color,
 Iovis. Ipse dempto et, falso quippe agitabitur tetenderat quae spectari.
 

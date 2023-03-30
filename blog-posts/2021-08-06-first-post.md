@@ -1,4 +1,9 @@
+---
+date: 2021-08-06
+---
+
 # First Blog post
+
 First post on deno blog
 
 ## Ventis esse quem
